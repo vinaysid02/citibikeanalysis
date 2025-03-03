@@ -1,0 +1,801 @@
+{
+    "JC-202011-citibike-tripdata_8.csv": {
+        "countTrips": 2127,
+        "avgTripDuration": 1035.773859896568,
+        "maxTripDuration": 1890,
+        "countBikes": 429,
+        "countStartStations": 51,
+        "countAllStations": 53,
+        "avgTripsPerBike": 4.958041958041958,
+        "avgRiderAge": 38.666666666666664,
+        "avgTripsByDayOfWeek": [
+            596,
+            743,
+            528,
+            260
+        ],
+        "topXdepartures": {
+            "rank": {
+                "2": 1,
+                "0": 2,
+                "1": 3,
+                "3": 4,
+                "4": 5
+            },
+            "start station id": {
+                "2": 3199,
+                "0": 3186,
+                "1": 3195,
+                "3": 3202,
+                "4": 3276
+            },
+            "number of departures": {
+                "2": 155,
+                "0": 130,
+                "1": 114,
+                "3": 104,
+                "4": 89
+            }
+        },
+        "numEarlyTrips": 212
+    },
+    "JC-202011-citibike-tripdata_9.csv": {
+        "countTrips": 2127,
+        "avgTripDuration": 1643.1499764927128,
+        "maxTripDuration": 2368,
+        "countBikes": 407,
+        "countStartStations": 51,
+        "countAllStations": 51,
+        "avgTripsPerBike": 5.226044226044226,
+        "avgRiderAge": 38.13916314057358,
+        "avgTripsByDayOfWeek": [
+            271,
+            480,
+            694,
+            682
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "1": 2,
+                "3": 3,
+                "2": 4,
+                "4": 5
+            },
+            "start station id": {
+                "0": 3186,
+                "1": 3192,
+                "3": 3199,
+                "2": 3195,
+                "4": 3276
+            },
+            "number of departures": {
+                "0": 156,
+                "1": 135,
+                "3": 129,
+                "2": 125,
+                "4": 107
+            }
+        },
+        "numEarlyTrips": 123
+    },
+    "JC-202005-citibike-tripdata_8.csv": {
+        "countTrips": 2507,
+        "avgTripDuration": 2439.8416433984844,
+        "maxTripDuration": 3945,
+        "countBikes": 442,
+        "countStartStations": 51,
+        "countAllStations": 52,
+        "avgTripsPerBike": 5.671945701357466,
+        "avgRiderAge": 38.86717191862784,
+        "avgTripsByDayOfWeek": [
+            227,
+            692,
+            770,
+            818
+        ],
+        "topXdepartures": {
+            "rank": {
+                "1": 1,
+                "2": 2,
+                "4": 3,
+                "0": 4,
+                "3": 5
+            },
+            "start station id": {
+                "1": 3192,
+                "2": 3199,
+                "4": 3639,
+                "0": 3186,
+                "3": 3276
+            },
+            "number of departures": {
+                "1": 204,
+                "2": 180,
+                "4": 130,
+                "0": 107,
+                "3": 103
+            }
+        },
+        "numEarlyTrips": 163
+    },
+    "JC-202005-citibike-tripdata_9.csv": {
+        "countTrips": 2507,
+        "avgTripDuration": 2558.836059034703,
+        "maxTripDuration": 1156,
+        "countBikes": 438,
+        "countStartStations": 51,
+        "countAllStations": 51,
+        "avgTripsPerBike": 5.723744292237443,
+        "avgRiderAge": 39.49341842840048,
+        "avgTripsByDayOfWeek": [
+            900,
+            1607
+        ],
+        "topXdepartures": {
+            "rank": {
+                "1": 1,
+                "2": 2,
+                "4": 3,
+                "0": 4,
+                "3": 5
+            },
+            "start station id": {
+                "1": 3192,
+                "2": 3199,
+                "4": 3792,
+                "0": 3186,
+                "3": 3205
+            },
+            "number of departures": {
+                "1": 289,
+                "2": 176,
+                "4": 147,
+                "0": 122,
+                "3": 120
+            }
+        },
+        "numEarlyTrips": 71
+    },
+    "JC-202005-citibike-tripdata_2.csv": {
+        "countTrips": 2508,
+        "avgTripDuration": 2117.407894736842,
+        "maxTripDuration": 508,
+        "countBikes": 397,
+        "countStartStations": 51,
+        "countAllStations": 51,
+        "avgTripsPerBike": 6.317380352644836,
+        "avgRiderAge": 38.963317384370015,
+        "avgTripsByDayOfWeek": [
+            302,
+            437,
+            589,
+            117,
+            265,
+            798
+        ],
+        "topXdepartures": {
+            "rank": {
+                "1": 1,
+                "2": 2,
+                "0": 3,
+                "4": 4,
+                "3": 5
+            },
+            "start station id": {
+                "1": 3192,
+                "2": 3199,
+                "0": 3186,
+                "4": 3276,
+                "3": 3203
+            },
+            "number of departures": {
+                "1": 217,
+                "2": 184,
+                "0": 104,
+                "4": 101,
+                "3": 100
+            }
+        },
+        "numEarlyTrips": 132
+    },
+    "JC-202005-citibike-tripdata_3.csv": {
+        "countTrips": 2508,
+        "avgTripDuration": 3194.1802232854866,
+        "maxTripDuration": 2476,
+        "countBikes": 379,
+        "countStartStations": 51,
+        "countAllStations": 51,
+        "avgTripsPerBike": 6.617414248021108,
+        "avgRiderAge": 39.761562998405104,
+        "avgTripsByDayOfWeek": [
+            447,
+            824,
+            1237
+        ],
+        "topXdepartures": {
+            "rank": {
+                "1": 1,
+                "2": 2,
+                "0": 3,
+                "4": 4,
+                "3": 5
+            },
+            "start station id": {
+                "1": 3192,
+                "2": 3199,
+                "0": 3186,
+                "4": 3792,
+                "3": 3276
+            },
+            "number of departures": {
+                "1": 326,
+                "2": 173,
+                "0": 112,
+                "4": 111,
+                "3": 101
+            }
+        },
+        "numEarlyTrips": 89
+    },
+    "JC-202005-citibike-tripdata_1.csv": {
+        "countTrips": 2508,
+        "avgTripDuration": 2297.988437001595,
+        "maxTripDuration": 558,
+        "countBikes": 413,
+        "countStartStations": 51,
+        "countAllStations": 51,
+        "avgTripsPerBike": 6.072639225181598,
+        "avgRiderAge": 39.809011164274324,
+        "avgTripsByDayOfWeek": [
+            467,
+            503,
+            207,
+            659,
+            197,
+            106,
+            369
+        ],
+        "topXdepartures": {
+            "rank": {
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "0": 4,
+                "4": 5
+            },
+            "start station id": {
+                "1": 3192,
+                "2": 3199,
+                "3": 3276,
+                "0": 3186,
+                "4": 3639
+            },
+            "number of departures": {
+                "1": 176,
+                "2": 156,
+                "3": 123,
+                "0": 107,
+                "4": 102
+            }
+        },
+        "numEarlyTrips": 173
+    },
+    "JC-202005-citibike-tripdata_0.csv": {
+        "countTrips": 2508,
+        "avgTripDuration": 2515.7998405103667,
+        "maxTripDuration": 329,
+        "countBikes": 418,
+        "countStartStations": 51,
+        "countAllStations": 53,
+        "avgTripsPerBike": 6.0,
+        "avgRiderAge": 39.82575757575758,
+        "avgTripsByDayOfWeek": [
+            323,
+            1292,
+            893
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "1": 2,
+                "2": 3,
+                "3": 4,
+                "4": 5
+            },
+            "start station id": {
+                "0": 3192,
+                "1": 3199,
+                "2": 3205,
+                "3": 3276,
+                "4": 3639
+            },
+            "number of departures": {
+                "0": 242,
+                "1": 149,
+                "2": 129,
+                "3": 127,
+                "4": 123
+            }
+        },
+        "numEarlyTrips": 97
+    },
+    "JC-202005-citibike-tripdata_4.csv": {
+        "countTrips": 2508,
+        "avgTripDuration": 2502.334928229665,
+        "maxTripDuration": 574,
+        "countBikes": 390,
+        "countStartStations": 51,
+        "countAllStations": 52,
+        "avgTripsPerBike": 6.430769230769231,
+        "avgRiderAge": 40.04545454545455,
+        "avgTripsByDayOfWeek": [
+            559,
+            360,
+            303,
+            1286
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "1": 2,
+                "2": 3,
+                "4": 4,
+                "3": 5
+            },
+            "start station id": {
+                "0": 3192,
+                "1": 3199,
+                "2": 3205,
+                "4": 3792,
+                "3": 3276
+            },
+            "number of departures": {
+                "0": 241,
+                "1": 184,
+                "2": 122,
+                "4": 114,
+                "3": 109
+            }
+        },
+        "numEarlyTrips": 137
+    },
+    "JC-202005-citibike-tripdata_5.csv": {
+        "countTrips": 2508,
+        "avgTripDuration": 1778.2974481658691,
+        "maxTripDuration": 632,
+        "countBikes": 424,
+        "countStartStations": 51,
+        "countAllStations": 51,
+        "avgTripsPerBike": 5.915094339622642,
+        "avgRiderAge": 39.153907496012756,
+        "avgTripsByDayOfWeek": [
+            257,
+            770,
+            760,
+            721
+        ],
+        "topXdepartures": {
+            "rank": {
+                "3": 1,
+                "2": 2,
+                "4": 3,
+                "1": 4,
+                "0": 5
+            },
+            "start station id": {
+                "3": 3199,
+                "2": 3192,
+                "4": 3205,
+                "1": 3186,
+                "0": 3185
+            },
+            "number of departures": {
+                "3": 160,
+                "2": 144,
+                "4": 116,
+                "1": 115,
+                "0": 107
+            }
+        },
+        "numEarlyTrips": 143
+    },
+    "JC-202005-citibike-tripdata_7.csv": {
+        "countTrips": 2507,
+        "avgTripDuration": 2489.5137614678897,
+        "maxTripDuration": 4594,
+        "countBikes": 432,
+        "countStartStations": 51,
+        "countAllStations": 53,
+        "avgTripsPerBike": 5.8032407407407405,
+        "avgRiderAge": 39.30993218986837,
+        "avgTripsByDayOfWeek": [
+            740,
+            986,
+            781
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "1": 2,
+                "3": 3,
+                "2": 4,
+                "4": 5
+            },
+            "start station id": {
+                "0": 3192,
+                "1": 3199,
+                "3": 3205,
+                "2": 3203,
+                "4": 3276
+            },
+            "number of departures": {
+                "0": 238,
+                "1": 162,
+                "3": 122,
+                "2": 106,
+                "4": 103
+            }
+        },
+        "numEarlyTrips": 88
+    },
+    "JC-202005-citibike-tripdata_6.csv": {
+        "countTrips": 2508,
+        "avgTripDuration": 2563.0713716108453,
+        "maxTripDuration": 679,
+        "countBikes": 439,
+        "countStartStations": 51,
+        "countAllStations": 53,
+        "avgTripsPerBike": 5.712984054669704,
+        "avgRiderAge": 39.16228070175438,
+        "avgTripsByDayOfWeek": [
+            540,
+            50,
+            421,
+            1497
+        ],
+        "topXdepartures": {
+            "rank": {
+                "1": 1,
+                "2": 2,
+                "4": 3,
+                "0": 4,
+                "3": 5
+            },
+            "start station id": {
+                "1": 3192,
+                "2": 3199,
+                "4": 3639,
+                "0": 3186,
+                "3": 3203
+            },
+            "number of departures": {
+                "1": 303,
+                "2": 205,
+                "4": 114,
+                "0": 99,
+                "3": 97
+            }
+        },
+        "numEarlyTrips": 133
+    },
+    "JC-202011-citibike-tripdata_2.csv": {
+        "countTrips": 2128,
+        "avgTripDuration": 2002.1029135338347,
+        "maxTripDuration": 2159,
+        "countBikes": 402,
+        "countStartStations": 51,
+        "countAllStations": 53,
+        "avgTripsPerBike": 5.293532338308458,
+        "avgRiderAge": 38.493890977443606,
+        "avgTripsByDayOfWeek": [
+            1248,
+            880
+        ],
+        "topXdepartures": {
+            "rank": {
+                "1": 1,
+                "2": 2,
+                "0": 3,
+                "4": 4,
+                "3": 5
+            },
+            "start station id": {
+                "1": 3192,
+                "2": 3199,
+                "0": 3186,
+                "4": 3792,
+                "3": 3205
+            },
+            "number of departures": {
+                "1": 180,
+                "2": 155,
+                "0": 145,
+                "4": 115,
+                "3": 105
+            }
+        },
+        "numEarlyTrips": 148
+    },
+    "JC-202011-citibike-tripdata_3.csv": {
+        "countTrips": 2128,
+        "avgTripDuration": 1180.6287593984962,
+        "maxTripDuration": 15599,
+        "countBikes": 385,
+        "countStartStations": 51,
+        "countAllStations": 51,
+        "avgTripsPerBike": 5.527272727272727,
+        "avgRiderAge": 38.22603383458647,
+        "avgTripsByDayOfWeek": [
+            935,
+            790,
+            403
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "2": 2,
+                "3": 3,
+                "1": 4,
+                "4": 5
+            },
+            "start station id": {
+                "0": 3186,
+                "2": 3199,
+                "3": 3276,
+                "1": 3192,
+                "4": 3639
+            },
+            "number of departures": {
+                "0": 144,
+                "2": 113,
+                "3": 111,
+                "1": 101,
+                "4": 91
+            }
+        },
+        "numEarlyTrips": 179
+    },
+    "JC-202011-citibike-tripdata_1.csv": {
+        "countTrips": 2128,
+        "avgTripDuration": 1506.4727443609022,
+        "maxTripDuration": 2001,
+        "countBikes": 387,
+        "countStartStations": 50,
+        "countAllStations": 53,
+        "avgTripsPerBike": 5.498708010335918,
+        "avgRiderAge": 38.774906015037594,
+        "avgTripsByDayOfWeek": [
+            224,
+            857,
+            941,
+            106
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "1": 2,
+                "2": 3,
+                "3": 4,
+                "4": 5
+            },
+            "start station id": {
+                "0": 3186,
+                "1": 3199,
+                "2": 3202,
+                "3": 3203,
+                "4": 3276
+            },
+            "number of departures": {
+                "0": 181,
+                "1": 130,
+                "2": 102,
+                "3": 96,
+                "4": 88
+            }
+        },
+        "numEarlyTrips": 213
+    },
+    "JC-202011-citibike-tripdata_0.csv": {
+        "countTrips": 2128,
+        "avgTripDuration": 1181.564379699248,
+        "maxTripDuration": 1011,
+        "countBikes": 395,
+        "countStartStations": 51,
+        "countAllStations": 52,
+        "avgTripsPerBike": 5.387341772151899,
+        "avgRiderAge": 38.72603383458647,
+        "avgTripsByDayOfWeek": [
+            584,
+            696,
+            503,
+            345
+        ],
+        "topXdepartures": {
+            "rank": {
+                "1": 1,
+                "3": 2,
+                "2": 3,
+                "0": 4,
+                "4": 5
+            },
+            "start station id": {
+                "1": 3186,
+                "3": 3199,
+                "2": 3195,
+                "0": 3185,
+                "4": 3202
+            },
+            "number of departures": {
+                "1": 154,
+                "3": 117,
+                "2": 93,
+                "0": 90,
+                "4": 81
+            }
+        },
+        "numEarlyTrips": 293
+    },
+    "JC-202011-citibike-tripdata_4.csv": {
+        "countTrips": 2128,
+        "avgTripDuration": 1684.6160714285713,
+        "maxTripDuration": 20449,
+        "countBikes": 366,
+        "countStartStations": 51,
+        "countAllStations": 51,
+        "avgTripsPerBike": 5.814207650273224,
+        "avgRiderAge": 37.91447368421053,
+        "avgTripsByDayOfWeek": [
+            190,
+            502,
+            393,
+            556,
+            487
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "2": 2,
+                "3": 3,
+                "1": 4,
+                "4": 5
+            },
+            "start station id": {
+                "0": 3186,
+                "2": 3199,
+                "3": 3202,
+                "1": 3192,
+                "4": 3276
+            },
+            "number of departures": {
+                "0": 181,
+                "2": 136,
+                "3": 103,
+                "1": 98,
+                "4": 86
+            }
+        },
+        "numEarlyTrips": 250
+    },
+    "JC-202011-citibike-tripdata_5.csv": {
+        "countTrips": 2127,
+        "avgTripDuration": 1148.1208274565115,
+        "maxTripDuration": 3014,
+        "countBikes": 347,
+        "countStartStations": 51,
+        "countAllStations": 52,
+        "avgTripsPerBike": 6.129682997118156,
+        "avgRiderAge": 38.47907851433945,
+        "avgTripsByDayOfWeek": [
+            619,
+            579,
+            6,
+            405,
+            518
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "2": 2,
+                "3": 3,
+                "1": 4,
+                "4": 5
+            },
+            "start station id": {
+                "0": 3186,
+                "2": 3202,
+                "3": 3203,
+                "1": 3195,
+                "4": 3276
+            },
+            "number of departures": {
+                "0": 153,
+                "2": 124,
+                "3": 101,
+                "1": 100,
+                "4": 89
+            }
+        },
+        "numEarlyTrips": 227
+    },
+    "JC-202011-citibike-tripdata_7.csv": {
+        "countTrips": 2127,
+        "avgTripDuration": 1238.685942642219,
+        "maxTripDuration": 1220,
+        "countBikes": 407,
+        "countStartStations": 51,
+        "countAllStations": 54,
+        "avgTripsPerBike": 5.226044226044226,
+        "avgRiderAge": 38.63704748472026,
+        "avgTripsByDayOfWeek": [
+            508,
+            14,
+            984,
+            621
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "2": 2,
+                "3": 3,
+                "1": 4,
+                "4": 5
+            },
+            "start station id": {
+                "0": 3186,
+                "2": 3199,
+                "3": 3202,
+                "1": 3192,
+                "4": 3276
+            },
+            "number of departures": {
+                "0": 164,
+                "2": 144,
+                "3": 121,
+                "1": 103,
+                "4": 100
+            }
+        },
+        "numEarlyTrips": 84
+    },
+    "JC-202011-citibike-tripdata_6.csv": {
+        "countTrips": 2127,
+        "avgTripDuration": 1362.5599435825106,
+        "maxTripDuration": 1144,
+        "countBikes": 377,
+        "countStartStations": 51,
+        "countAllStations": 52,
+        "avgTripsPerBike": 5.641909814323608,
+        "avgRiderAge": 38.56558533145275,
+        "avgTripsByDayOfWeek": [
+            498,
+            599,
+            843,
+            187
+        ],
+        "topXdepartures": {
+            "rank": {
+                "0": 1,
+                "1": 2,
+                "4": 3,
+                "3": 4,
+                "2": 5
+            },
+            "start station id": {
+                "0": 3186,
+                "1": 3195,
+                "4": 3203,
+                "3": 3202,
+                "2": 3199
+            },
+            "number of departures": {
+                "0": 174,
+                "1": 132,
+                "4": 91,
+                "3": 90,
+                "2": 89
+            }
+        },
+        "numEarlyTrips": 319
+    }
+}
